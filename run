@@ -1,0 +1,2 @@
+url="https://roadmateapp.com/public/api/shop_categories"
+sh runner $url 1000 get $1 Header.txt
